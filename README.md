@@ -10,3 +10,5 @@ You can't manage what you don't measure. Remote energy monitoring helps to make 
 
 - Microcontroller: ESP series
 
+Design by https://www.linkedin.com/in/musacufalci/
+
