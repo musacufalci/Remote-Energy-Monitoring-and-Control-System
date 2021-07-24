@@ -8,5 +8,5 @@ You can't manage what you don't measure. Remote energy monitoring helps to make 
 
 - Remote (PC and Mobile) Energy Monitoring and Control System
 
-- Microcontroller: ESP8266
+- Microcontroller: ESP series
 
