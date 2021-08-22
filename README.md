@@ -7,5 +7,5 @@ Remote energy monitoring is a proven solution for energy data collection and rep
 You can't manage what you don't measure. Remote energy monitoring helps to make energy use visible and thus important. It is an energy-saving solution...
 
 
-Design by https://www.linkedin.com/in/musacufalci/
+Design by: https://www.linkedin.com/in/musacufalci/
 
